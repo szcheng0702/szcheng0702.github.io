@@ -11,7 +11,7 @@ redirect_from:
 
 The information listed on this page is just a short version of what I have done (in mostly chronological order).
 
-For a complete PDF version (and more stuff!!!), click [here](http://szcheng0702.github.io/files/Cheng_Sizhu_Resume.pdf).
+For a complete PDF version of my cv/resume, click [here](http://szcheng0702.github.io/files/Cheng_Sizhu_Resume.pdf).
 
 
 Education
