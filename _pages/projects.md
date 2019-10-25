@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "projects"
+permalink: /projects/
 author_profile: true
-redirect_from:
-  - /resume
+<!-- redirect_from:
+  - /resume -->
 ---
 
 {% include base_path %}
@@ -26,15 +26,6 @@ Work experience
   * Working with [Recast.AI (SAP Conversational AI) Group](https://cai.tools.sap/)
   * Duties included: Improving the existing sentence clustering algorithms for the chatbot that we're building
 
-<!-- * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
-
-
-<!--   * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3 -->
 
 
 Publications
@@ -43,25 +34,5 @@ Publications
 * Sataree Khuansuwan, Lisa M. Barnhill, **Sizhu Cheng**, and Jeff M. Bronstein. *A novel transgenic zebrafish line allows for in vivo quantification of autophagic activity in neurons*, Autophagy 2019. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30755067?holding=F1000&otool=stanford)
 
 
-Skills
-======
-* Python, C++, MATLAB, SQL, HTML. Shell Script, LaTex, Markdown, Julia 
-* Pytorch, Tensorflow, Keras, Numpy, Scipy, Pandas, PBRT, SLURM
 
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-Service and leadership
-======
-* Stanford Women in Math Mentoring, Mentor (2017-2019)
-* Global Medical Training, UCLA Chapter, Medical Donation Commitee (2015-2017)
 
