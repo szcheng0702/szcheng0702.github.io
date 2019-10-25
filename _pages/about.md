@@ -15,6 +15,7 @@ I recently received my M.S. degree in Computational and Mathematical Engineering
 Prior to Stanford, I received my B.S. degree at University of California, Los Angeles, double-majoring in Applied Mathematics and Neuroscience. During that time, I was fortunate to work with Dr. [Jeff bronstein](https://www.uclahealth.org/jeff-bronstein) and a postdoctoral scholar in his lab Dr. Sataree Khuansuwan in pathological study of Parkinson's Disease using zebrafish models.
 
 Currently my main interests include machine learning, deep learning and computational mathematical modelling, and all fields these knowledge can be applied inclusively. I have strong passion in industrial positions where AI techniques can be utilized to solve real world problems. I'm also highly motivated to develop novel models in the AI research field as well.
+
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
