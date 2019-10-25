@@ -14,7 +14,7 @@ I recently received my M.S. degree in Computational and Mathematical Engineering
 
 Prior to Stanford, I received my B.S. degree at University of California, Los Angeles, double-majoring in Applied Mathematics and Neuroscience. During that time, I was fortunate to work with Dr. [Jeff bronstein](https://www.uclahealth.org/jeff-bronstein) and a postdoctoral scholar in his lab, Dr. Sataree Khuansuwan, in pathological study of Parkinson's Disease using zebrafish models.
 
-Currently my main interests include machine learning, deep learning and computational mathematical modelling, and all fields these knowledge can be applied, inclusively. I have strong passion in industrial positions where AI techniques can be utilized to solve real world problems. I'm also highly motivated to develop novel models in the AI research field as well.
+Currently my main interests include machine learning, deep learning, computational mathematical modelling, and all fields these knowledge can be applied, inclusively. I have strong passion in industrial positions where AI techniques can be utilized to solve real world problems. I'm also highly motivated to develop novel models in the AI research field as well.
 
 <!-- A data-driven personal website
 ======
