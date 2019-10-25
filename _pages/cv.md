@@ -8,52 +8,58 @@ redirect_from:
 ---
 
 {% include base_path %}
+CV
+======
+The information listed at this page is a short version of what I have done (in mostly chronological order).
+For a complete PDF version, click [here](http://szcheng0702.github.io/files/Cheng_Sizhu_Resume.pdf)
+
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computational and Mathematical Engineering, Stanford University, 2019
+* B.S. in Applied Mathematics, B.S. in Neuroscience, University of California, Los Angeles, 2017
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Data Science Intern at SAP
+  * Working with Applied Data Science and Machine Learning (NLP), [Recast.AI (SAP Conversational AI) Group](https://cai.tools.sap/)
+  * Duties included: Improving the existing sentence clustering algorithms for the chatbot that we're building
 
-* Fall 2015: Research Assistant
+<!-- * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* Python, C++, MATLAB, SQL, HTML. Shell Script, LaTex, Markdown, Julia 
+* Pytorch, Tensorflow, Keras, Numpy, Scipy, Pandas, PBRT, SLURM
+<!--   * Sub-skill 2.1
   * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Sub-skill 2.3 -->
+
 
 Publications
 ======
+* Sizhu Cheng, Arianna Yuan. Understanding the Learning Effect of Approximate Arithmetic Training: What is Actually Being Learned? Paper accepted for the 17th Annual Meeting of the International Conference on Cognitive Modeling, Montreal, Canada. [PDF](https://iccm-conference.neocities.org/2019/proceedings/papers/ICCM2019_paper_58.pdf)
+* Sataree Khuansuwan, Lisa M. Barnhill, Sizhu Cheng, and Jeff M. Bronstein. A novel transgenic zebrafish line allows for in vivo quantification of autophagic activity in neurons, Autophagy 2019. [PDF](https://www.ncbi.nlm.nih.gov/pubmed/30755067?holding=F1000&otool=stanford)
+
+
+<!-- Publications
+======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Stanford Women in Math Mentoring, Mentor (2017-2019)
+* Global Medical Training, Medical Donation Commitee (2015-2017)
+
