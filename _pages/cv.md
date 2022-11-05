@@ -21,7 +21,15 @@ Education
 
 
 Work experience
-======
+====== 
+* Dec 2019-Present: Software Engineer, Machine Learning and Search Ranking at Neeva
+  * Work as members of the early team to personalize User's preferred results in both Home and the search result page
+  * Improve the index selection's quality and efficiency in the core information retrieval system
+  * Boost the local search quality by a significant amount by improving query understanding, results ranking and retrieval
+  * Use large language models in various different areas to power the supplemental retrieval of the search results
+  * Integrate several third-party APIs into the product and design an automated user-interested contents generator, which is widely used among the users.
+  * Mentor an intern and several new grads and provide early-career advice
+  * And More !!
 * Summer 2018: Applied Data Science and Machine Learning (NLP) Intern at SAP
   * Working with [Recast.AI (SAP Conversational AI) Group](https://cai.tools.sap/)
   * Duties included: Improving the existing sentence clustering algorithms for the chatbot that we're building
@@ -46,7 +54,8 @@ Publications
 Skills
 ======
 * Python, C++, MATLAB, SQL, HTML. Shell Script, LaTex, Markdown, Julia 
-* Pytorch, Tensorflow, Keras, Numpy, Scipy, Pandas, PBRT, SLURM
+* Spark, Pytorch, Tensorflow, Keras, Numpy, Scipy, Pandas, PBRT, SLURM
+* Kubernetes, Databricks, Airflow, Grafana
 
 <!-- Publications
 ======
