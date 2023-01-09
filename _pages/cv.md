@@ -11,7 +11,7 @@ redirect_from:
 
 The information listed on this page is just a short version of what I have done (in mostly chronological order).
 
-For a complete PDF version of my cv/resume, click [here](http://szcheng0702.github.io/files/Cheng_Sizhu_Lindsay_Resume.pdf).
+For a complete PDF version of my cv/resume, click [here](http://szcheng0702.github.io/files/Cheng_Sizhu_CV.pdf).
 
 
 Education
@@ -23,13 +23,12 @@ Education
 Work experience
 ====== 
 * Dec 2019-Present: Software Engineer, Machine Learning and Search Ranking at Neeva
-  * Work as members of the early team to personalize User's preferred results in both Home and the search result page
+    * Fine-tune large language models and serve it in production to improve the retrieval and ranking quality of the search results page
+  * Work as early members of the team to personalize User's preferred results in both \textit{Home} and the search result page
   * Improve the index selection's quality and efficiency in the core information retrieval system
-  * Boost the local search quality by a significant amount by improving query understanding, results ranking and retrieval
-  * Use large language models in various different areas to power the supplemental retrieval of the search results
+  * Boost the local search quality by a significant amount by improving query understanding and results ranking
   * Integrate several third-party APIs into the product and design an automated user-interested contents generator, which is widely used among the users.
   * Mentor an intern and several new grads and provide early-career advice
-  * And More !!
 * Summer 2018: Applied Data Science and Machine Learning (NLP) Intern at SAP
   * Working with [Recast.AI (SAP Conversational AI) Group](https://cai.tools.sap/)
   * Duties included: Improving the existing sentence clustering algorithms for the chatbot that we're building

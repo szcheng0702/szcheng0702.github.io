@@ -19,8 +19,9 @@ I was born in mainland China, and moved to Hong Kong SAR with my family. I had m
 Things I like
 ======
 * I'm a super fan of swimming races (although I'm not super good at swimming). I will watch FINA Swimming World Championships if I have time, or even go on site to watch it. (I was at 2017 Budapest FINA Swimming World Champisonships!!!)
-* Lakers Fans
+* Lakers and PSG Fans
 * Travel
+* Backpacking and Trekking
 * Cooking
 * Early Stage Photography amateur 
 * Xiao (Chinese vertical end-blown flute)
