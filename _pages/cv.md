@@ -11,8 +11,7 @@ redirect_from:
 
 The information listed on this page is just a short version of what I have done (in mostly chronological order).
 
-For a complete PDF version of my cv/resume, click [here](http://szcheng0702.github.io/files/
-Lindsay-Cheng-Resume-full.pdf).
+For a complete PDF version of my cv/resume, click [here](http://szcheng0702.github.io/files/Lindsay-Cheng-Resume-full.pdf).
 
 
 Education
@@ -24,8 +23,8 @@ Education
 Work experience
 ====== 
 * September 2023-Present: Senior Software Engineer at Google
-  * Led the modeling and quality assurance efforts for the successful launch of Help Me Write in Chrome
-  * Pioneered the end-to-end development, including the critical production serving, of an agentic search system that significantly boosted information retrieval efficiency and overall quality.
+  * Led the modeling and quality assurance efforts for the successful launch of [Help Me Write in Chrome](https://blog.google/products/chrome/google-chrome-ai-help-me-write/)
+  * Pioneered the end-to-end development, including the critical production serving, of an agentic search system that significantly boosted information retrieval efficiency and overall quality. (Stay tuned!)
 * Dec 2019-May 2023: Software Engineer, Machine Learning and Search Ranking at Neeva
     * Fine-tune large language models and serve it in production to improve the retrieval and ranking quality of the search results page
   * Work as early members of the team to personalize User's preferred results in both \textit{Home} and the search result page
