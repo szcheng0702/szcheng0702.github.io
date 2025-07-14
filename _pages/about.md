@@ -12,9 +12,11 @@ redirect_from:
 
 I'm a Senior Software Engineer on the AI Product Expansion team at Google. Previously, I was an early engineer at Neeva, a privacy-focused search engine. After its acquisition by Snowflake, I briefly contributed to AutoSQL Copilot and advised on dense retrieval techniques for vector database systems. I received my M.S. degree in Computational and Mathematical Engineering (in general track) from Stanford University. Previously I have worked with Dr. [James McClelland](https://stanford.edu/~jlmcc/) and one of his PhD student, Arianna Yuan, in mathematical cognition, specifically in the field of arithemetic training. I have also worked with Dr. [Shaul Druckmann](https://www.druckmannlab.com) in a project to study neural dynamics representation.
 
+Currently, I'm collaborating cross-functionally with diverse product teams to incubate and launch innovative new products within Google. I'm working intensively on agentic search and compute-use agent specifically. 
+
 Prior to Stanford, I received my B.S. degree at University of California, Los Angeles, double-majoring in Applied Mathematics and Neuroscience. During that time, I was fortunate to work with Dr. [Jeff bronstein](https://www.uclahealth.org/jeff-bronstein) and a postdoctoral scholar in his lab, Dr. Sataree Khuansuwan, in pathological study of Parkinson's Disease using zebrafish models.
 
-Currently my main interests include machine learning, deep learning, computational mathematical modelling, natural language processing and all fields these knowledge can be applied, inclusively. I have strong passion in industrial positions where AI techniques can be utilized to solve real world problems. I'm also highly motivated to develop novel models in the AI research field as well.
+Currently my main interests include reinforcement learning's application in LLMs, adaptive compute and effecient inference, computer-use agent, agentic system, computational mathematical modelling, natural language processing and all fields these knowledge can be applied, inclusively. I have strong passion in industrial positions where AI techniques can be utilized to solve real world problems. I'm also highly motivated to develop novel models in the AI research field as well.
 
 <!-- A data-driven personal website
 ======
