@@ -23,7 +23,10 @@ Education
 
 Work experience
 ====== 
-* Dec 2019-Present: Software Engineer, Machine Learning and Search Ranking at Neeva
+* September 2023-Present: Senior Software Engineer at Google
+  * Led the modeling and quality assurance efforts for the successful launch of Help Me Write in Chrome
+  * Pioneered the end-to-end development, including the critical production serving, of an agentic search system that significantly boosted information retrieval efficiency and overall quality.
+* Dec 2019-May 2023: Software Engineer, Machine Learning and Search Ranking at Neeva
     * Fine-tune large language models and serve it in production to improve the retrieval and ranking quality of the search results page
   * Work as early members of the team to personalize User's preferred results in both \textit{Home} and the search result page
   * Improve the index selection's quality and efficiency in the core information retrieval system
