@@ -18,15 +18,22 @@ Education
 ======
 * M.S. in Computational and Mathematical Engineering, Stanford University, 2019
 * B.S. in Applied Mathematics, B.S. in Neuroscience, University of California, Los Angeles, 2017
+  * Honors: Cum Laude, Dean's List, ALD | PES Honor Society, Golden Key International Honor Society
 
 
 Work experience
 ====== 
-* September 2023-Present: Senior Software Engineer at Google
-  * Led the modeling and quality assurance efforts for the successful launch of [Help Me Write in Chrome](https://blog.google/products/chrome/google-chrome-ai-help-me-write/)
-  * Pioneered the end-to-end development, including the critical production serving, of an agentic search system that significantly boosted information retrieval efficiency and overall quality. (Stay tuned!)
+* September 2023-Present: Senior Software Engineer at Google DeepMind
+  * Building orchestration infrastructure for long-running agents and tool-calling, connecting LLM reasoning to external tool execution
+  * Driving quality and evaluation efforts for agentic planning and browsing agents, including tree-search based navigation for long-horizon tasks
+* May 2023-August 2023: Software Engineer, Snowflake AI at Snowflake Inc (Acquired Neeva)
+  * Worked on large-scale embedding generation and dense retrieval systems for enterprise AI
+  * Contributed to the Snowflake Core Copilot, focusing on model fine-tuning for SQL generation and code-centric tasks
+* March 2023-July 2023: Associate Computational Biologist (part-time) at Acrobat Genomics
+  * Derived mathematical parameters and managed configurations for an AI generative model used in a protein engineering platform
 * Dec 2019-May 2023: Software Engineer, Machine Learning and Search Ranking at Neeva
     * Fine-tune large language models and serve it in production to improve the retrieval and ranking quality of the search results page
+  * Architected and built the dense retrieval system from scratch, from design through integration into core search infrastructure
   * Work as early members of the team to personalize User's preferred results in both \textit{Home} and the search result page
   * Improve the index selection's quality and efficiency in the core information retrieval system
   * Boost the local search quality by a significant amount by improving query understanding and results ranking
@@ -52,12 +59,6 @@ Publications
 * **Sizhu Cheng**, Arianna Yuan. *Understanding the Learning Effect of Approximate Arithmetic Training: What is Actually Being Learned?* Paper accepted for the 17th Annual Meeting of the International Conference on Cognitive Modeling, Montreal, Canada. [PDF](https://iccm-conference.neocities.org/2019/proceedings/papers/ICCM2019_paper_58.pdf)
 * Sataree Khuansuwan, Lisa M. Barnhill, **Sizhu Cheng**, and Jeff M. Bronstein. *A novel transgenic zebrafish line allows for in vivo quantification of autophagic activity in neurons*, Autophagy 2019. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30755067?holding=F1000&otool=stanford)
 
-
-Skills
-======
-* Python, C++, MATLAB, SQL, HTML. Shell Script, LaTex, Markdown, Julia 
-* Spark, Pytorch, Tensorflow, Keras, Numpy, Scipy, Pandas, PBRT, SLURM
-* Kubernetes, Databricks, Airflow, Grafana
 
 <!-- Publications
 ======
