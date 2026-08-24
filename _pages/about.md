@@ -12,7 +12,7 @@ redirect_from:
 
 I'm a Senior Software Engineer at Google DeepMind. Previously, I was an early engineer at Neeva, a privacy-focused search engine. After its acquisition by Snowflake, I briefly contributed to the Snowflake Core Copilot and advised on dense retrieval techniques for vector database systems. I received my M.S. degree in Computational and Mathematical Engineering (in general track) from Stanford University. Previously I have worked with Dr. [James McClelland](https://stanford.edu/~jlmcc/) and one of his PhD student, Arianna Yuan, in mathematical cognition, specifically in the field of arithemetic training. I have also worked with Dr. [Shaul Druckmann](https://www.druckmannlab.com) in a project to study neural dynamics representation.
 
-Currently, I'm working on orchestration infrastructure for long-running agents and quality for agentic, browsing-based systems. 
+Currently, I'm working on orchestration infrastructure and quality for long-running agents. 
 
 Prior to Stanford, I received my B.S. degree at University of California, Los Angeles, double-majoring in Applied Mathematics and Neuroscience. During that time, I was fortunate to work with Dr. [Jeff bronstein](https://www.uclahealth.org/jeff-bronstein) and a postdoctoral scholar in his lab, Dr. Sataree Khuansuwan, in pathological study of Parkinson's Disease using zebrafish models.
 
